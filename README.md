@@ -38,4 +38,4 @@ ________________________________________________________________________________
 
 ### Desafios - Módulo 04
 - [Interface com Chakra UI](https://github.com/ivangomestr/worldtrip/ "Link")
-- [https://github.com/ivangomestr/reactjs-upload-de-imagens](https://github.com/ivangomestr/reactjs-upload-de-imagens/ "Link")
+- [Upload de imagens](https://github.com/ivangomestr/reactjs-upload-de-imagens/ "Link")
