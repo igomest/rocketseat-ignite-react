@@ -24,7 +24,7 @@ ________________________________________________________________________________
 - [Fundamentos do Nextjs - Ignews](https://github.com/ivangomestr/ignews/ "Link")
 
 ### Projetos de Aulas - Módulo 04
-[Criando interfaces do futuro - dashgo](https://github.com/ivangomestr/dashgo/ "Link")
+- [Criando interfaces do futuro - dashgo](https://github.com/ivangomestr/dashgo/ "Link")
 
 _______________________________________________________________________________________________________________________________________________________________________
 ### Desafios - Módulo 01
