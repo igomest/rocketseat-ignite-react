@@ -16,8 +16,17 @@
 - FaunaDB
 - Nextjs
 - Tests
+_______________________________________________________________________________________________________________________________________________________________________
+### Projetos de Aulas - Módulo 02
+- [Primeira aplicação web com ReactJS - dtmoney](https://github.com/ivangomestr/dtmoney/ "Link")
 
+### Projetos de Aulas - Módulo 03
+- [Fundamentos do Nextjs - Ignews](https://github.com/ivangomestr/ignews/ "Link")
 
+### Projetos de Aulas - Módulo 04
+[Criando interfaces do futuro - dashgo](https://github.com/ivangomestr/dashgo/ "Link")
+
+_______________________________________________________________________________________________________________________________________________________________________
 ### Desafios - Módulo 01
 
 - [Conceitos do React](https://github.com/ivangomestr/ignite-tasks/ "Link")
@@ -27,3 +36,6 @@
 - [Criando um hook de carrinho de compras](https://github.com/ivangomestr/ignite-mod2-desafio01/ "Link")
 - [Refactoring de classes e TypeScript](https://github.com/ivangomestr/ignite-mod02-desafio02/ "Link")
 
+### Desafios - Módulo 04
+- [Interface com Chakra UI](https://github.com/ivangomestr/worldtrip/ "Link")
+- [https://github.com/ivangomestr/reactjs-upload-de-imagens](https://github.com/ivangomestr/reactjs-upload-de-imagens/ "Link")
